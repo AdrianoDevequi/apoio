@@ -1,9 +1,54 @@
 .bg-yellow{
     background-color: #FFCC29;
-}
-a.nav-item.nav-link {
+}.bg-yellow-dark{
+    background-color: #F0B800;
+}.bg-gray{
+    background-color: #F4F4F4;
+}a.nav-item.nav-link {
     color: #000;
-}
-.logo{
+}.logo{
     height: 70px;
+}.bg-titulo {
+    background-color: #000;
+    padding: 2px 10px 2px 10px;
+    line-height: 66px;
+}.text-justify{
+    text-align: justify;
+}.d-grid {
+    display: grid;
+}.gap-2 {
+    gap: 0.5rem!important;
+}.item-menu-destaque{
+    background-color: #000;
+    border-radius: 10px;
+    color: #FFF!important;
+}.nav-item.nav-link {
+    margin-right: 5px;
+    margin-left: 5px;
+}.titulo-banner{
+    font-size: 31px;
+}.btn-banner{
+    font-size: 21px;
+}.titulo-potenciais{
+    font-size: 30px;
+}.titulo-curso{
+    font-size: 30px;
+}.divider{
+    border-top: 4px solid #e6e6e6;
+    width: 180px;
+    margin: 0 auto;
+}.crop-image{
+    width: 255px;
+    height: 255px;
+    object-fit: cover;
+}.team:hover {
+    border: 2px solid;
+    border-radius: 10px;
+}.politica-rodape{
+    background-color: #000;
+}.owl-carousel .owl-item img {
+    display: unset;
+    width: auto;
+}.bg-faixa-contato{
+    background-color: #333333;
 }
