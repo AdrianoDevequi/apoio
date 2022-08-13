@@ -51,4 +51,9 @@
     width: auto;
 }.bg-faixa-contato{
     background-color: #333333;
+}.btn.bg-yellow{
+    color: #000;
+    font-weight: 500;
+}.alinha-itens{
+    align-items: flex-start;
 }
