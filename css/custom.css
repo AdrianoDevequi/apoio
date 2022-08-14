@@ -63,4 +63,18 @@
     filter: grayscale(1);
 }.logo-apoiador:hover{
     filter: grayscale(0);
+}.lbl-infos-talento{
+    background-color: #000;
+    color: #FFF;
+    padding: 8px;
+    line-height: 47px;
+}.img-talento{
+    border: 2px solid;
+    border-radius: 10px;
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+}.titulo-quem-viu {
+    font-size: 23px;
+    font-weight: 500;
 }
