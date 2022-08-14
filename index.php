@@ -215,7 +215,7 @@
         </div>
       </div>
       <div class="d-grid gap-2 col-md-3 mx-auto">
-        <a href="#" class="btn btn-secondary py-2 px-4 mb-5" title="Listar Todos">Listar Todos</a>
+        <a href="http://localhost/apoio/talentos.php" title="talentos" class="btn btn-secondary py-2 px-4 mb-5" title="Listar Todos">Listar Todos</a>
       </div>
     </div>
   </div>

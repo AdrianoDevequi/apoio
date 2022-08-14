@@ -55,10 +55,10 @@
     font-weight: 500;
 }.alinha-itens{
     align-items: flex-start;
-}
-.apoiadores.owl-carousel .owl-item img {
+}.apoiadores.owl-carousel .owl-item img {
     filter: grayscale(1);
-}
-.apoiadores.owl-carousel .owl-item img:hover {
+}.apoiadores.owl-carousel .owl-item img:hover {
     filter: grayscale(0);
+}.bg-politica{
+    background-color: #E3E3E3;
 }

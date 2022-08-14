@@ -26,8 +26,8 @@
         </div>
         <div class="col-lg-5 col-md-6 pt-5 pb-5">
           
-            <p class="btn politica-rodape text-white px-3 py-1 mb-4">Política de Privacidade</p>
-            </br>
+            <a href="politica-de-privacidade.php" class="btn politica-rodape text-white px-3 py-1 mb-4" title="Política de Privacidade">Política de Privacidade</a>
+            <br>
             <b>Entre em contato conosco:</b>
             </br>
             <p><img class="mt-3" src="img/email-apoio-talento.png" alt="" style="margin-left: -10px;"></p>
