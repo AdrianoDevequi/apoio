@@ -227,13 +227,13 @@
     <h1 class="mb-4 titulo-potenciais text-center">APOIADORES</h1>
     <div class="row text-md-left text-center">
       <div class="apoiadores owl-carousel owl-theme">
-        <div class="item" style="width:150px"><img class="img-fluid" src="img/wizard.png" alt=""></div>
-        <div class="item" style="width:150px"><img class="img-fluid" src="img/ml.png" alt=""></div>
-        <div class="item" style="width:150px"><img class="img-fluid" src="img/claro.png" alt=""></div>
-        <div class="item" style="width:150px"><img class="img-fluid" src="img/caixa.png" alt=""></div>
-        <div class="item" style="width:150px"><img class="img-fluid" src="img/cbf.png" alt=""></div>
+        <div class="item" style="width:150px"><img class="img-fluid logo-apoiador" src="img/wizard.png" alt=""></div>
+        <div class="item" style="width:150px"><img class="img-fluid logo-apoiador" src="img/ml.png" alt=""></div>
+        <div class="item" style="width:150px"><img class="img-fluid logo-apoiador" src="img/claro.png" alt=""></div>
+        <div class="item" style="width:150px"><img class="img-fluid logo-apoiador" src="img/caixa.png" alt=""></div>
+        <div class="item" style="width:150px"><img class="img-fluid logo-apoiador" src="img/cbf.png" alt=""></div>
       </div>
-      <div class="d-grid gap-2 col-md-3 mx-auto">
+      <div class="d-grid gap-2 col-md-3 mx-auto pt-4">
         <a href="#" class="btn btn-secondary py-2 px-4 mb-5" title="Listar Todos">Listar Todos</a>
       </div>
     </div>
