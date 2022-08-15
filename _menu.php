@@ -1,5 +1,5 @@
     <!-- Navbar Start -->
-    <div class="container-fluid bg-yellow pt-2 position-relative">
+    <div class="container-fluid bg-yellow pt-2 position-relative" id="menu">
     	<nav class="container navbar navbar-expand-lg navbar-light py-3 py-lg-0 px-5">
     		<a href="index.php">
     			<img class="logo" src="img/logotipo_apoiotalento.svg" alt="">
@@ -15,6 +15,7 @@
     				<a href="#quero-estudar" class="nav-item nav-link">Quero Estudar</a>
     				<a href="talentos.php" class="nav-item nav-link item-menu-destaque">Talentos</a>
     				<a href="apoiadores.php" class="nav-item nav-link item-menu-destaque">Apoiadores</a>
+					<a href="apoiados.php" class="nav-item nav-link item-menu-destaque">Apoiados</a>
     				<a href="#contato" class="nav-item nav-link">Contato</a>
     			</div>
     		</div>

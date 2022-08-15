@@ -38,10 +38,15 @@
 				<img src="img/wmbarros_vert_flat.png" height="70px" alt=""><br>
 				<b>© 2022.Todos os direitos reservados.</b>
 			</div>
+			
+
 		</div>
+		</div>
+		<div class="container-fluid bg-yellow ">
+		<div class="d-flex flex-row-reverse bd-highlight">
+				<!-- Back to Top -->
+				<a href="#menu" class="btn btn-secondary p-3 back-to-top"><i class="fa fa-angle-double-up"></i></a>
+			</div>
 	</div>
 </div>
 <!-- Footer Fim -->
-
-<!-- Back to Top -->
-<a href="#" class="btn btn-secondary p-3 back-to-top"><i class="fa fa-angle-double-up"></i></a>

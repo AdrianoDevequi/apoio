@@ -77,4 +77,15 @@
 }.titulo-quem-viu {
     font-size: 23px;
     font-weight: 500;
+}.apoiados-cidade {
+    color: #a3a3a3;
+    font-size: 12px;
+}.borda{
+    border: 1px solid #bfbfbf;
+    padding: 13px;
+    border-radius: 10px;
+}p.card-text {
+    line-height: 19px;
+    color: #484848;
+    font-weight: 400;
 }
